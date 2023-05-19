@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pickle
 from sklearn.preprocessing import StandardScaler
-st.title("Medical Diagnostic App")
+st.title("Medical Diagnostic App ⚕️")
 st.markdown("Does the woman have diabetes or not? 👩‍⚕️")
 
 #Step1: Load the pickled model
